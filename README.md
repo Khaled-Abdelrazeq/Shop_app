@@ -1,6 +1,6 @@
 # shop_app
 
-A new Flutter project.
+Shop App Flutter Application (Bloc State Management, MVVM Design Pattern, JSON with Dio, Support 2 Languages (Arabic & English), Dark and Light Mode).
 
 ## Getting Started
 
